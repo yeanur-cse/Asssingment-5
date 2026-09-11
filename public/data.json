@@ -1,0 +1,83 @@
+[
+  {
+    "name": "React",
+    "description": "A declarative, component-based library for building modern user interfaces.",
+    "category": "Frontend",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "badge": "Popular",
+    "icon": "⚛️"
+  },
+  {
+    "name": "Vue.js",
+    "description": "An approachable, performant and versatile framework for building user interfaces.",
+    "category": "Frontend",
+    "level": "Beginner-Friendly",
+    "rating": 4.8,
+    "badge": "Versatile",
+    "icon": "💚"
+  },
+  {
+    "name": "Svelte",
+    "description": "Cybernetically enhanced web apps with a compile-time approach.",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "badge": "Fast",
+    "icon": "🔥"
+  },
+  {
+    "name": "Next.js",
+    "description": "The React framework for building full-stack web applications.",
+    "category": "Frontend",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "badge": "Modern",
+    "icon": "N"
+  },
+  {
+    "name": "Node.js",
+    "description": "An asynchronous event-driven JavaScript runtime built for scalable applications.",
+    "category": "Backend",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "badge": "Standard",
+    "icon": "🟢"
+  },
+  {
+    "name": "PostgreSQL",
+    "description": "A powerful, open-source object-relational database system.",
+    "category": "Database",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "badge": "Top SQL",
+    "icon": "🐘"
+  },
+  {
+    "name": "Redis",
+    "description": "An in-memory data structure store used as a database and cache.",
+    "category": "Database",
+    "level": "Intermediate",
+    "rating": 4.8,
+    "badge": "Cache",
+    "icon": "🔴"
+  },
+  {
+    "name": "JavaScript",
+    "description": "The versatile and popular scripting language powering the modern web.",
+    "category": "Language",
+    "level": "Beginner-Friendly",
+    "rating": 4.9,
+    "badge": "Ubiquitous",
+    "icon": "JS"
+  },
+  {
+    "name": "TypeScript",
+    "description": "A strongly typed programming language that builds on JavaScript.",
+    "category": "Language",
+    "level": "Intermediate",
+    "rating": 4.9,
+    "badge": "Essential",
+    "icon": "TS"
+  }
+]
