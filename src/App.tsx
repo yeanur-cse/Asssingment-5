@@ -3,6 +3,9 @@
  import Nav from "./components/Nav"
  import Technologies from "./components/Technologies/technologies"
  import type { Itechonologies } from "./type/techonologiesType";
+import Footer from "./components/Footer";
+
+
 
 
 
@@ -27,6 +30,8 @@
       <Banner></Banner>
 
       <Suspense fallback = {<h2> Loading....</h2>}><Technologies technologiesPromise ={technologiesPromise} /></Suspense>
+
+       <Footer />
      </>
    )
  }
