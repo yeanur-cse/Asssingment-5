@@ -1,5 +1,6 @@
   export interface Itechonologies {
     name: string,
+     id: number, 
     description: string,
     category: string,
     level: string,
